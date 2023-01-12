@@ -1,0 +1,4 @@
+name: BlockInteractActions
+author: _FabioTNT
+main: com.fabiogrossi.blockinteractactions.BlockActions
+version: ${project.version}
